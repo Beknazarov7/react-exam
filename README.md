@@ -1,3 +1,22 @@
+# React Exam Project
+
+## Description
+A simple React application demonstrating the integration of JSONPlaceholder API with features like routing, responsive design, and dynamic data fetching. This project was created to showcase React skills and API integration.
+
+## Features
+- Fetch and display a list of posts from JSONPlaceholder API.
+- View detailed information about each post.
+- Responsive design for both desktop and mobile devices.
+- Navigation between pages using React Router.
+
+## Link to Deployed Project
+Vercel Deployed Link: https://react-exam-web.vercel.app/  
+
+## Instructions to Clone, Install, and Run Locally
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Beknazarov7/react-exam.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
